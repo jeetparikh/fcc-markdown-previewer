@@ -1,0 +1,10 @@
+.previewer-container, .editor-container {
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 992px) {
+  .previewer-container, .editor-container {
+    height: 600px;
+  }
+}
